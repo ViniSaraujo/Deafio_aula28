@@ -49,3 +49,5 @@ O que ela **FAZ**?
 
 - Perde horas conferindo aluno por aluno.
 
+
+![alt text](Kanban_1.png)
