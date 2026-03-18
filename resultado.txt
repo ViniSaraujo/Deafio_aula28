@@ -1,0 +1,11 @@
+--- RELATÓRIO ACADÊMICO SENAI ---
+
+DESTAQUE: Maria com média 9.8
+------------------------------
+ALUNOS EM RECUPERAÇÃO:
+- Pedro: 5.2
+- Fulana: 6.2
+- Roberta: 6.7
+- Maria Aparecida: 6.6
+- Alice: 5.8
+- Ana: 0.0
